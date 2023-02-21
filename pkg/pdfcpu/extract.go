@@ -21,8 +21,8 @@ import (
 	"io"
 	"strings"
 
-	"github.com/pdfcpu/pdfcpu/pkg/filter"
-	"github.com/pdfcpu/pdfcpu/pkg/log"
+	"github.com/Kush-Wednesday/pdfcpu-custom/pkg/filter"
+	"github.com/Kush-Wednesday/pdfcpu-custom/pkg/log"
 	"github.com/pkg/errors"
 )
 

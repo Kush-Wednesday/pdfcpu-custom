@@ -29,7 +29,7 @@ import (
 	"time"
 	"unicode/utf16"
 
-	"github.com/pdfcpu/pdfcpu/pkg/font"
+	"github.com/Kush-Wednesday/pdfcpu-custom/pkg/font"
 	"github.com/pkg/errors"
 )
 

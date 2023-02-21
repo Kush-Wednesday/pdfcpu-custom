@@ -17,7 +17,7 @@ limitations under the License.
 package cli
 
 import (
-	"github.com/pdfcpu/pdfcpu/pkg/pdfcpu"
+	"github.com/Kush-Wednesday/pdfcpu-custom/pkg/pdfcpu"
 	"github.com/pkg/errors"
 )
 

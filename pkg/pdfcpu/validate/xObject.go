@@ -17,8 +17,8 @@ limitations under the License.
 package validate
 
 import (
-	"github.com/pdfcpu/pdfcpu/pkg/filter"
-	pdf "github.com/pdfcpu/pdfcpu/pkg/pdfcpu"
+	"github.com/Kush-Wednesday/pdfcpu-custom/pkg/filter"
+	pdf "github.com/Kush-Wednesday/pdfcpu-custom/pkg/pdfcpu"
 	"github.com/pkg/errors"
 )
 

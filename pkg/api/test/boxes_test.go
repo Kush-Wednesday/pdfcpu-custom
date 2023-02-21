@@ -20,9 +20,9 @@ import (
 	"path/filepath"
 	"testing"
 
-	"github.com/pdfcpu/pdfcpu/pkg/pdfcpu"
+	"github.com/Kush-Wednesday/pdfcpu-custom/pkg/pdfcpu"
 
-	"github.com/pdfcpu/pdfcpu/pkg/api"
+	"github.com/Kush-Wednesday/pdfcpu-custom/pkg/api"
 )
 
 func TestListBoxes(t *testing.T) {

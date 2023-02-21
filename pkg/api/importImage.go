@@ -22,8 +22,8 @@ import (
 	"os"
 	"time"
 
-	"github.com/pdfcpu/pdfcpu/pkg/log"
-	"github.com/pdfcpu/pdfcpu/pkg/pdfcpu"
+	"github.com/Kush-Wednesday/pdfcpu-custom/pkg/log"
+	"github.com/Kush-Wednesday/pdfcpu-custom/pkg/pdfcpu"
 )
 
 // Import parses an Import command string into an internal structure.

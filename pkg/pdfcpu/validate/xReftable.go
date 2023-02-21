@@ -25,8 +25,8 @@ import (
 	"strconv"
 	"time"
 
-	"github.com/pdfcpu/pdfcpu/pkg/log"
-	pdf "github.com/pdfcpu/pdfcpu/pkg/pdfcpu"
+	"github.com/Kush-Wednesday/pdfcpu-custom/pkg/log"
+	pdf "github.com/Kush-Wednesday/pdfcpu-custom/pkg/pdfcpu"
 	"github.com/pkg/errors"
 )
 

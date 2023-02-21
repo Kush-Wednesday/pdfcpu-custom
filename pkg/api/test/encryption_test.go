@@ -20,8 +20,8 @@ import (
 	"path/filepath"
 	"testing"
 
-	"github.com/pdfcpu/pdfcpu/pkg/api"
-	pdf "github.com/pdfcpu/pdfcpu/pkg/pdfcpu"
+	"github.com/Kush-Wednesday/pdfcpu-custom/pkg/api"
+	pdf "github.com/Kush-Wednesday/pdfcpu-custom/pkg/pdfcpu"
 )
 
 func confForAlgorithm(aes bool, keyLength int, upw, opw string) *pdf.Configuration {

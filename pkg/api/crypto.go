@@ -20,8 +20,8 @@ import (
 	"io"
 	"os"
 
-	"github.com/pdfcpu/pdfcpu/pkg/log"
-	"github.com/pdfcpu/pdfcpu/pkg/pdfcpu"
+	"github.com/Kush-Wednesday/pdfcpu-custom/pkg/log"
+	"github.com/Kush-Wednesday/pdfcpu-custom/pkg/pdfcpu"
 	"github.com/pkg/errors"
 )
 

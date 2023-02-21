@@ -1,4 +1,4 @@
-module github.com/pdfcpu/pdfcpu
+module github.com/Kush-Wednesday/pdfcpu-custom
 
 go 1.17
 

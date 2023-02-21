@@ -4,7 +4,7 @@
 FROM golang:latest as builder
 
 # install
-RUN go install github.com/pdfcpu/pdfcpu/cmd/pdfcpu@latest
+RUN go install github.com/Kush-Wednesday/pdfcpu-custom/cmd/pdfcpu@latest
 
 ######## Start a new stage from scratch #######
 
